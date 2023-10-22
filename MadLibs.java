@@ -74,6 +74,4 @@ public class MadLibs {
     System.out.println("Hello, welcome to Mad Libs! \n");
     System.out.println(replace("template.txt"));
   }
-  
- 
 }
